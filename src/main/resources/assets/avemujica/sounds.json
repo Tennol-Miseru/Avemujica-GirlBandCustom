@@ -1,0 +1,1331 @@
+{
+  "voice.doloris.v081": {
+    "subtitle": "subtitles.avemujica.voice.doloris.v081",
+    "sounds": [
+      {
+        "name": "avemujica:voice/doloris/v081",
+        "stream": false
+      }
+    ]
+  },
+  "voice.doloris.v082": {
+    "subtitle": "subtitles.avemujica.voice.doloris.v082",
+    "sounds": [
+      {
+        "name": "avemujica:voice/doloris/v082",
+        "stream": false
+      }
+    ]
+  },
+  "voice.doloris.v083": {
+    "subtitle": "subtitles.avemujica.voice.doloris.v083",
+    "sounds": [
+      {
+        "name": "avemujica:voice/doloris/v083",
+        "stream": false
+      }
+    ]
+  },
+  "voice.doloris.v084": {
+    "subtitle": "subtitles.avemujica.voice.doloris.v084",
+    "sounds": [
+      {
+        "name": "avemujica:voice/doloris/v084",
+        "stream": false
+      }
+    ]
+  },
+  "voice.doloris.v085": {
+    "subtitle": "subtitles.avemujica.voice.doloris.v085",
+    "sounds": [
+      {
+        "name": "avemujica:voice/doloris/v085",
+        "stream": false
+      }
+    ]
+  },
+  "voice.doloris.v086": {
+    "subtitle": "subtitles.avemujica.voice.doloris.v086",
+    "sounds": [
+      {
+        "name": "avemujica:voice/doloris/v086",
+        "stream": false
+      }
+    ]
+  },
+  "voice.doloris.v087": {
+    "subtitle": "subtitles.avemujica.voice.doloris.v087",
+    "sounds": [
+      {
+        "name": "avemujica:voice/doloris/v087",
+        "stream": false
+      }
+    ]
+  },
+  "voice.doloris.v088": {
+    "subtitle": "subtitles.avemujica.voice.doloris.v088",
+    "sounds": [
+      {
+        "name": "avemujica:voice/doloris/v088",
+        "stream": false
+      }
+    ]
+  },
+  "voice.doloris.v089": {
+    "subtitle": "subtitles.avemujica.voice.doloris.v089",
+    "sounds": [
+      {
+        "name": "avemujica:voice/doloris/v089",
+        "stream": false
+      }
+    ]
+  },
+  "voice.doloris.v090": {
+    "subtitle": "subtitles.avemujica.voice.doloris.v090",
+    "sounds": [
+      {
+        "name": "avemujica:voice/doloris/v090",
+        "stream": false
+      }
+    ]
+  },
+  "voice.doloris.v091": {
+    "subtitle": "subtitles.avemujica.voice.doloris.v091",
+    "sounds": [
+      {
+        "name": "avemujica:voice/doloris/v091",
+        "stream": false
+      }
+    ]
+  },
+  "voice.doloris.v092": {
+    "subtitle": "subtitles.avemujica.voice.doloris.v092",
+    "sounds": [
+      {
+        "name": "avemujica:voice/doloris/v092",
+        "stream": false
+      }
+    ]
+  },
+  "voice.doloris.v093": {
+    "subtitle": "subtitles.avemujica.voice.doloris.v093",
+    "sounds": [
+      {
+        "name": "avemujica:voice/doloris/v093",
+        "stream": false
+      }
+    ]
+  },
+  "voice.doloris.v094": {
+    "subtitle": "subtitles.avemujica.voice.doloris.v094",
+    "sounds": [
+      {
+        "name": "avemujica:voice/doloris/v094",
+        "stream": false
+      }
+    ]
+  },
+  "voice.doloris.v095": {
+    "subtitle": "subtitles.avemujica.voice.doloris.v095",
+    "sounds": [
+      {
+        "name": "avemujica:voice/doloris/v095",
+        "stream": false
+      }
+    ]
+  },
+  "voice.doloris.v096": {
+    "subtitle": "subtitles.avemujica.voice.doloris.v096",
+    "sounds": [
+      {
+        "name": "avemujica:voice/doloris/v096",
+        "stream": false
+      }
+    ]
+  },
+  "voice.oblivionis.v145": {
+    "subtitle": "subtitles.avemujica.voice.oblivionis.v145",
+    "sounds": [
+      {
+        "name": "avemujica:voice/oblivionis/v145",
+        "stream": false
+      }
+    ]
+  },
+  "voice.oblivionis.v146": {
+    "subtitle": "subtitles.avemujica.voice.oblivionis.v146",
+    "sounds": [
+      {
+        "name": "avemujica:voice/oblivionis/v146",
+        "stream": false
+      }
+    ]
+  },
+  "voice.oblivionis.v147": {
+    "subtitle": "subtitles.avemujica.voice.oblivionis.v147",
+    "sounds": [
+      {
+        "name": "avemujica:voice/oblivionis/v147",
+        "stream": false
+      }
+    ]
+  },
+  "voice.oblivionis.v148": {
+    "subtitle": "subtitles.avemujica.voice.oblivionis.v148",
+    "sounds": [
+      {
+        "name": "avemujica:voice/oblivionis/v148",
+        "stream": false
+      }
+    ]
+  },
+  "voice.oblivionis.v149": {
+    "subtitle": "subtitles.avemujica.voice.oblivionis.v149",
+    "sounds": [
+      {
+        "name": "avemujica:voice/oblivionis/v149",
+        "stream": false
+      }
+    ]
+  },
+  "voice.oblivionis.v150": {
+    "subtitle": "subtitles.avemujica.voice.oblivionis.v150",
+    "sounds": [
+      {
+        "name": "avemujica:voice/oblivionis/v150",
+        "stream": false
+      }
+    ]
+  },
+  "voice.oblivionis.v151": {
+    "subtitle": "subtitles.avemujica.voice.oblivionis.v151",
+    "sounds": [
+      {
+        "name": "avemujica:voice/oblivionis/v151",
+        "stream": false
+      }
+    ]
+  },
+  "voice.oblivionis.v152": {
+    "subtitle": "subtitles.avemujica.voice.oblivionis.v152",
+    "sounds": [
+      {
+        "name": "avemujica:voice/oblivionis/v152",
+        "stream": false
+      }
+    ]
+  },
+  "voice.oblivionis.v153": {
+    "subtitle": "subtitles.avemujica.voice.oblivionis.v153",
+    "sounds": [
+      {
+        "name": "avemujica:voice/oblivionis/v153",
+        "stream": false
+      }
+    ]
+  },
+  "voice.oblivionis.v154": {
+    "subtitle": "subtitles.avemujica.voice.oblivionis.v154",
+    "sounds": [
+      {
+        "name": "avemujica:voice/oblivionis/v154",
+        "stream": false
+      }
+    ]
+  },
+  "voice.oblivionis.v155": {
+    "subtitle": "subtitles.avemujica.voice.oblivionis.v155",
+    "sounds": [
+      {
+        "name": "avemujica:voice/oblivionis/v155",
+        "stream": false
+      }
+    ]
+  },
+  "voice.oblivionis.v156": {
+    "subtitle": "subtitles.avemujica.voice.oblivionis.v156",
+    "sounds": [
+      {
+        "name": "avemujica:voice/oblivionis/v156",
+        "stream": false
+      }
+    ]
+  },
+  "voice.oblivionis.v157": {
+    "subtitle": "subtitles.avemujica.voice.oblivionis.v157",
+    "sounds": [
+      {
+        "name": "avemujica:voice/oblivionis/v157",
+        "stream": false
+      }
+    ]
+  },
+  "voice.oblivionis.v158": {
+    "subtitle": "subtitles.avemujica.voice.oblivionis.v158",
+    "sounds": [
+      {
+        "name": "avemujica:voice/oblivionis/v158",
+        "stream": false
+      }
+    ]
+  },
+  "voice.oblivionis.v159": {
+    "subtitle": "subtitles.avemujica.voice.oblivionis.v159",
+    "sounds": [
+      {
+        "name": "avemujica:voice/oblivionis/v159",
+        "stream": false
+      }
+    ]
+  },
+  "voice.oblivionis.v160": {
+    "subtitle": "subtitles.avemujica.voice.oblivionis.v160",
+    "sounds": [
+      {
+        "name": "avemujica:voice/oblivionis/v160",
+        "stream": false
+      }
+    ]
+  },
+  "voice.timoris.v113": {
+    "subtitle": "subtitles.avemujica.voice.timoris.v113",
+    "sounds": [
+      {
+        "name": "avemujica:voice/timoris/v113",
+        "stream": false
+      }
+    ]
+  },
+  "voice.timoris.v114": {
+    "subtitle": "subtitles.avemujica.voice.timoris.v114",
+    "sounds": [
+      {
+        "name": "avemujica:voice/timoris/v114",
+        "stream": false
+      }
+    ]
+  },
+  "voice.timoris.v115": {
+    "subtitle": "subtitles.avemujica.voice.timoris.v115",
+    "sounds": [
+      {
+        "name": "avemujica:voice/timoris/v115",
+        "stream": false
+      }
+    ]
+  },
+  "voice.timoris.v116": {
+    "subtitle": "subtitles.avemujica.voice.timoris.v116",
+    "sounds": [
+      {
+        "name": "avemujica:voice/timoris/v116",
+        "stream": false
+      }
+    ]
+  },
+  "voice.timoris.v117": {
+    "subtitle": "subtitles.avemujica.voice.timoris.v117",
+    "sounds": [
+      {
+        "name": "avemujica:voice/timoris/v117",
+        "stream": false
+      }
+    ]
+  },
+  "voice.timoris.v118": {
+    "subtitle": "subtitles.avemujica.voice.timoris.v118",
+    "sounds": [
+      {
+        "name": "avemujica:voice/timoris/v118",
+        "stream": false
+      }
+    ]
+  },
+  "voice.timoris.v119": {
+    "subtitle": "subtitles.avemujica.voice.timoris.v119",
+    "sounds": [
+      {
+        "name": "avemujica:voice/timoris/v119",
+        "stream": false
+      }
+    ]
+  },
+  "voice.timoris.v120": {
+    "subtitle": "subtitles.avemujica.voice.timoris.v120",
+    "sounds": [
+      {
+        "name": "avemujica:voice/timoris/v120",
+        "stream": false
+      }
+    ]
+  },
+  "voice.timoris.v121": {
+    "subtitle": "subtitles.avemujica.voice.timoris.v121",
+    "sounds": [
+      {
+        "name": "avemujica:voice/timoris/v121",
+        "stream": false
+      }
+    ]
+  },
+  "voice.timoris.v122": {
+    "subtitle": "subtitles.avemujica.voice.timoris.v122",
+    "sounds": [
+      {
+        "name": "avemujica:voice/timoris/v122",
+        "stream": false
+      }
+    ]
+  },
+  "voice.timoris.v123": {
+    "subtitle": "subtitles.avemujica.voice.timoris.v123",
+    "sounds": [
+      {
+        "name": "avemujica:voice/timoris/v123",
+        "stream": false
+      }
+    ]
+  },
+  "voice.timoris.v124": {
+    "subtitle": "subtitles.avemujica.voice.timoris.v124",
+    "sounds": [
+      {
+        "name": "avemujica:voice/timoris/v124",
+        "stream": false
+      }
+    ]
+  },
+  "voice.timoris.v125": {
+    "subtitle": "subtitles.avemujica.voice.timoris.v125",
+    "sounds": [
+      {
+        "name": "avemujica:voice/timoris/v125",
+        "stream": false
+      }
+    ]
+  },
+  "voice.timoris.v126": {
+    "subtitle": "subtitles.avemujica.voice.timoris.v126",
+    "sounds": [
+      {
+        "name": "avemujica:voice/timoris/v126",
+        "stream": false
+      }
+    ]
+  },
+  "voice.timoris.v127": {
+    "subtitle": "subtitles.avemujica.voice.timoris.v127",
+    "sounds": [
+      {
+        "name": "avemujica:voice/timoris/v127",
+        "stream": false
+      }
+    ]
+  },
+  "voice.timoris.v128": {
+    "subtitle": "subtitles.avemujica.voice.timoris.v128",
+    "sounds": [
+      {
+        "name": "avemujica:voice/timoris/v128",
+        "stream": false
+      }
+    ]
+  },
+  "voice.amoris.v129": {
+    "subtitle": "subtitles.avemujica.voice.amoris.v129",
+    "sounds": [
+      {
+        "name": "avemujica:voice/amoris/v129",
+        "stream": false
+      }
+    ]
+  },
+  "voice.amoris.v130": {
+    "subtitle": "subtitles.avemujica.voice.amoris.v130",
+    "sounds": [
+      {
+        "name": "avemujica:voice/amoris/v130",
+        "stream": false
+      }
+    ]
+  },
+  "voice.amoris.v131": {
+    "subtitle": "subtitles.avemujica.voice.amoris.v131",
+    "sounds": [
+      {
+        "name": "avemujica:voice/amoris/v131",
+        "stream": false
+      }
+    ]
+  },
+  "voice.amoris.v132": {
+    "subtitle": "subtitles.avemujica.voice.amoris.v132",
+    "sounds": [
+      {
+        "name": "avemujica:voice/amoris/v132",
+        "stream": false
+      }
+    ]
+  },
+  "voice.amoris.v133": {
+    "subtitle": "subtitles.avemujica.voice.amoris.v133",
+    "sounds": [
+      {
+        "name": "avemujica:voice/amoris/v133",
+        "stream": false
+      }
+    ]
+  },
+  "voice.amoris.v134": {
+    "subtitle": "subtitles.avemujica.voice.amoris.v134",
+    "sounds": [
+      {
+        "name": "avemujica:voice/amoris/v134",
+        "stream": false
+      }
+    ]
+  },
+  "voice.amoris.v135": {
+    "subtitle": "subtitles.avemujica.voice.amoris.v135",
+    "sounds": [
+      {
+        "name": "avemujica:voice/amoris/v135",
+        "stream": false
+      }
+    ]
+  },
+  "voice.amoris.v136": {
+    "subtitle": "subtitles.avemujica.voice.amoris.v136",
+    "sounds": [
+      {
+        "name": "avemujica:voice/amoris/v136",
+        "stream": false
+      }
+    ]
+  },
+  "voice.amoris.v137": {
+    "subtitle": "subtitles.avemujica.voice.amoris.v137",
+    "sounds": [
+      {
+        "name": "avemujica:voice/amoris/v137",
+        "stream": false
+      }
+    ]
+  },
+  "voice.amoris.v138": {
+    "subtitle": "subtitles.avemujica.voice.amoris.v138",
+    "sounds": [
+      {
+        "name": "avemujica:voice/amoris/v138",
+        "stream": false
+      }
+    ]
+  },
+  "voice.amoris.v139": {
+    "subtitle": "subtitles.avemujica.voice.amoris.v139",
+    "sounds": [
+      {
+        "name": "avemujica:voice/amoris/v139",
+        "stream": false
+      }
+    ]
+  },
+  "voice.amoris.v140": {
+    "subtitle": "subtitles.avemujica.voice.amoris.v140",
+    "sounds": [
+      {
+        "name": "avemujica:voice/amoris/v140",
+        "stream": false
+      }
+    ]
+  },
+  "voice.amoris.v141": {
+    "subtitle": "subtitles.avemujica.voice.amoris.v141",
+    "sounds": [
+      {
+        "name": "avemujica:voice/amoris/v141",
+        "stream": false
+      }
+    ]
+  },
+  "voice.amoris.v142": {
+    "subtitle": "subtitles.avemujica.voice.amoris.v142",
+    "sounds": [
+      {
+        "name": "avemujica:voice/amoris/v142",
+        "stream": false
+      }
+    ]
+  },
+  "voice.amoris.v143": {
+    "subtitle": "subtitles.avemujica.voice.amoris.v143",
+    "sounds": [
+      {
+        "name": "avemujica:voice/amoris/v143",
+        "stream": false
+      }
+    ]
+  },
+  "voice.amoris.v144": {
+    "subtitle": "subtitles.avemujica.voice.amoris.v144",
+    "sounds": [
+      {
+        "name": "avemujica:voice/amoris/v144",
+        "stream": false
+      }
+    ]
+  },
+  "voice.mortis.v097": {
+    "subtitle": "subtitles.avemujica.voice.mortis.v097",
+    "sounds": [
+      {
+        "name": "avemujica:voice/mortis/v097",
+        "stream": false
+      }
+    ]
+  },
+  "voice.mortis.v098": {
+    "subtitle": "subtitles.avemujica.voice.mortis.v098",
+    "sounds": [
+      {
+        "name": "avemujica:voice/mortis/v098",
+        "stream": false
+      }
+    ]
+  },
+  "voice.mortis.v099": {
+    "subtitle": "subtitles.avemujica.voice.mortis.v099",
+    "sounds": [
+      {
+        "name": "avemujica:voice/mortis/v099",
+        "stream": false
+      }
+    ]
+  },
+  "voice.mortis.v100": {
+    "subtitle": "subtitles.avemujica.voice.mortis.v100",
+    "sounds": [
+      {
+        "name": "avemujica:voice/mortis/v100",
+        "stream": false
+      }
+    ]
+  },
+  "voice.mortis.v101": {
+    "subtitle": "subtitles.avemujica.voice.mortis.v101",
+    "sounds": [
+      {
+        "name": "avemujica:voice/mortis/v101",
+        "stream": false
+      }
+    ]
+  },
+  "voice.mortis.v102": {
+    "subtitle": "subtitles.avemujica.voice.mortis.v102",
+    "sounds": [
+      {
+        "name": "avemujica:voice/mortis/v102",
+        "stream": false
+      }
+    ]
+  },
+  "voice.mortis.v103": {
+    "subtitle": "subtitles.avemujica.voice.mortis.v103",
+    "sounds": [
+      {
+        "name": "avemujica:voice/mortis/v103",
+        "stream": false
+      }
+    ]
+  },
+  "voice.mortis.v104": {
+    "subtitle": "subtitles.avemujica.voice.mortis.v104",
+    "sounds": [
+      {
+        "name": "avemujica:voice/mortis/v104",
+        "stream": false
+      }
+    ]
+  },
+  "voice.mortis.v105": {
+    "subtitle": "subtitles.avemujica.voice.mortis.v105",
+    "sounds": [
+      {
+        "name": "avemujica:voice/mortis/v105",
+        "stream": false
+      }
+    ]
+  },
+  "voice.mortis.v106": {
+    "subtitle": "subtitles.avemujica.voice.mortis.v106",
+    "sounds": [
+      {
+        "name": "avemujica:voice/mortis/v106",
+        "stream": false
+      }
+    ]
+  },
+  "voice.mortis.v107": {
+    "subtitle": "subtitles.avemujica.voice.mortis.v107",
+    "sounds": [
+      {
+        "name": "avemujica:voice/mortis/v107",
+        "stream": false
+      }
+    ]
+  },
+  "voice.mortis.v108": {
+    "subtitle": "subtitles.avemujica.voice.mortis.v108",
+    "sounds": [
+      {
+        "name": "avemujica:voice/mortis/v108",
+        "stream": false
+      }
+    ]
+  },
+  "voice.mortis.v109": {
+    "subtitle": "subtitles.avemujica.voice.mortis.v109",
+    "sounds": [
+      {
+        "name": "avemujica:voice/mortis/v109",
+        "stream": false
+      }
+    ]
+  },
+  "voice.mortis.v110": {
+    "subtitle": "subtitles.avemujica.voice.mortis.v110",
+    "sounds": [
+      {
+        "name": "avemujica:voice/mortis/v110",
+        "stream": false
+      }
+    ]
+  },
+  "voice.mortis.v111": {
+    "subtitle": "subtitles.avemujica.voice.mortis.v111",
+    "sounds": [
+      {
+        "name": "avemujica:voice/mortis/v111",
+        "stream": false
+      }
+    ]
+  },
+  "voice.mortis.v112": {
+    "subtitle": "subtitles.avemujica.voice.mortis.v112",
+    "sounds": [
+      {
+        "name": "avemujica:voice/mortis/v112",
+        "stream": false
+      }
+    ]
+  },
+  "voice.doloris.d106": {
+    "subtitle": "subtitles.avemujica.voice.doloris.d106",
+    "sounds": [
+      {
+        "name": "avemujica:voice/doloris/d106",
+        "stream": false
+      }
+    ]
+  },
+  "voice.doloris.d107": {
+    "subtitle": "subtitles.avemujica.voice.doloris.d107",
+    "sounds": [
+      {
+        "name": "avemujica:voice/doloris/d107",
+        "stream": false
+      }
+    ]
+  },
+  "voice.doloris.d108": {
+    "subtitle": "subtitles.avemujica.voice.doloris.d108",
+    "sounds": [
+      {
+        "name": "avemujica:voice/doloris/d108",
+        "stream": false
+      }
+    ]
+  },
+  "voice.doloris.d120": {
+    "subtitle": "subtitles.avemujica.voice.doloris.d120",
+    "sounds": [
+      {
+        "name": "avemujica:voice/doloris/d120",
+        "stream": false
+      }
+    ]
+  },
+  "voice.doloris.d121": {
+    "subtitle": "subtitles.avemujica.voice.doloris.d121",
+    "sounds": [
+      {
+        "name": "avemujica:voice/doloris/d121",
+        "stream": false
+      }
+    ]
+  },
+  "voice.doloris.d531": {
+    "subtitle": "subtitles.avemujica.voice.doloris.d531",
+    "sounds": [
+      {
+        "name": "avemujica:voice/doloris/d531",
+        "stream": false
+      }
+    ]
+  },
+  "voice.doloris.d556": {
+    "subtitle": "subtitles.avemujica.voice.doloris.d556",
+    "sounds": [
+      {
+        "name": "avemujica:voice/doloris/d556",
+        "stream": false
+      }
+    ]
+  },
+  "voice.doloris.d581": {
+    "subtitle": "subtitles.avemujica.voice.doloris.d581",
+    "sounds": [
+      {
+        "name": "avemujica:voice/doloris/d581",
+        "stream": false
+      }
+    ]
+  },
+  "voice.doloris.d606": {
+    "subtitle": "subtitles.avemujica.voice.doloris.d606",
+    "sounds": [
+      {
+        "name": "avemujica:voice/doloris/d606",
+        "stream": false
+      }
+    ]
+  },
+  "voice.mortis.d127": {
+    "subtitle": "subtitles.avemujica.voice.mortis.d127",
+    "sounds": [
+      {
+        "name": "avemujica:voice/mortis/d127",
+        "stream": false
+      }
+    ]
+  },
+  "voice.mortis.d128": {
+    "subtitle": "subtitles.avemujica.voice.mortis.d128",
+    "sounds": [
+      {
+        "name": "avemujica:voice/mortis/d128",
+        "stream": false
+      }
+    ]
+  },
+  "voice.mortis.d129": {
+    "subtitle": "subtitles.avemujica.voice.mortis.d129",
+    "sounds": [
+      {
+        "name": "avemujica:voice/mortis/d129",
+        "stream": false
+      }
+    ]
+  },
+  "voice.mortis.d141": {
+    "subtitle": "subtitles.avemujica.voice.mortis.d141",
+    "sounds": [
+      {
+        "name": "avemujica:voice/mortis/d141",
+        "stream": false
+      }
+    ]
+  },
+  "voice.mortis.d142": {
+    "subtitle": "subtitles.avemujica.voice.mortis.d142",
+    "sounds": [
+      {
+        "name": "avemujica:voice/mortis/d142",
+        "stream": false
+      }
+    ]
+  },
+  "voice.mortis.d532": {
+    "subtitle": "subtitles.avemujica.voice.mortis.d532",
+    "sounds": [
+      {
+        "name": "avemujica:voice/mortis/d532",
+        "stream": false
+      }
+    ]
+  },
+  "voice.mortis.d557": {
+    "subtitle": "subtitles.avemujica.voice.mortis.d557",
+    "sounds": [
+      {
+        "name": "avemujica:voice/mortis/d557",
+        "stream": false
+      }
+    ]
+  },
+  "voice.mortis.d582": {
+    "subtitle": "subtitles.avemujica.voice.mortis.d582",
+    "sounds": [
+      {
+        "name": "avemujica:voice/mortis/d582",
+        "stream": false
+      }
+    ]
+  },
+  "voice.mortis.d607": {
+    "subtitle": "subtitles.avemujica.voice.mortis.d607",
+    "sounds": [
+      {
+        "name": "avemujica:voice/mortis/d607",
+        "stream": false
+      }
+    ]
+  },
+  "voice.timoris.d148": {
+    "subtitle": "subtitles.avemujica.voice.timoris.d148",
+    "sounds": [
+      {
+        "name": "avemujica:voice/timoris/d148",
+        "stream": false
+      }
+    ]
+  },
+  "voice.timoris.d149": {
+    "subtitle": "subtitles.avemujica.voice.timoris.d149",
+    "sounds": [
+      {
+        "name": "avemujica:voice/timoris/d149",
+        "stream": false
+      }
+    ]
+  },
+  "voice.timoris.d150": {
+    "subtitle": "subtitles.avemujica.voice.timoris.d150",
+    "sounds": [
+      {
+        "name": "avemujica:voice/timoris/d150",
+        "stream": false
+      }
+    ]
+  },
+  "voice.timoris.d162": {
+    "subtitle": "subtitles.avemujica.voice.timoris.d162",
+    "sounds": [
+      {
+        "name": "avemujica:voice/timoris/d162",
+        "stream": false
+      }
+    ]
+  },
+  "voice.timoris.d163": {
+    "subtitle": "subtitles.avemujica.voice.timoris.d163",
+    "sounds": [
+      {
+        "name": "avemujica:voice/timoris/d163",
+        "stream": false
+      }
+    ]
+  },
+  "voice.timoris.d533": {
+    "subtitle": "subtitles.avemujica.voice.timoris.d533",
+    "sounds": [
+      {
+        "name": "avemujica:voice/timoris/d533",
+        "stream": false
+      }
+    ]
+  },
+  "voice.timoris.d558": {
+    "subtitle": "subtitles.avemujica.voice.timoris.d558",
+    "sounds": [
+      {
+        "name": "avemujica:voice/timoris/d558",
+        "stream": false
+      }
+    ]
+  },
+  "voice.timoris.d583": {
+    "subtitle": "subtitles.avemujica.voice.timoris.d583",
+    "sounds": [
+      {
+        "name": "avemujica:voice/timoris/d583",
+        "stream": false
+      }
+    ]
+  },
+  "voice.timoris.d608": {
+    "subtitle": "subtitles.avemujica.voice.timoris.d608",
+    "sounds": [
+      {
+        "name": "avemujica:voice/timoris/d608",
+        "stream": false
+      }
+    ]
+  },
+  "voice.amoris.d169": {
+    "subtitle": "subtitles.avemujica.voice.amoris.d169",
+    "sounds": [
+      {
+        "name": "avemujica:voice/amoris/d169",
+        "stream": false
+      }
+    ]
+  },
+  "voice.amoris.d170": {
+    "subtitle": "subtitles.avemujica.voice.amoris.d170",
+    "sounds": [
+      {
+        "name": "avemujica:voice/amoris/d170",
+        "stream": false
+      }
+    ]
+  },
+  "voice.amoris.d171": {
+    "subtitle": "subtitles.avemujica.voice.amoris.d171",
+    "sounds": [
+      {
+        "name": "avemujica:voice/amoris/d171",
+        "stream": false
+      }
+    ]
+  },
+  "voice.amoris.d183": {
+    "subtitle": "subtitles.avemujica.voice.amoris.d183",
+    "sounds": [
+      {
+        "name": "avemujica:voice/amoris/d183",
+        "stream": false
+      }
+    ]
+  },
+  "voice.amoris.d184": {
+    "subtitle": "subtitles.avemujica.voice.amoris.d184",
+    "sounds": [
+      {
+        "name": "avemujica:voice/amoris/d184",
+        "stream": false
+      }
+    ]
+  },
+  "voice.amoris.d534": {
+    "subtitle": "subtitles.avemujica.voice.amoris.d534",
+    "sounds": [
+      {
+        "name": "avemujica:voice/amoris/d534",
+        "stream": false
+      }
+    ]
+  },
+  "voice.amoris.d559": {
+    "subtitle": "subtitles.avemujica.voice.amoris.d559",
+    "sounds": [
+      {
+        "name": "avemujica:voice/amoris/d559",
+        "stream": false
+      }
+    ]
+  },
+  "voice.amoris.d584": {
+    "subtitle": "subtitles.avemujica.voice.amoris.d584",
+    "sounds": [
+      {
+        "name": "avemujica:voice/amoris/d584",
+        "stream": false
+      }
+    ]
+  },
+  "voice.amoris.d609": {
+    "subtitle": "subtitles.avemujica.voice.amoris.d609",
+    "sounds": [
+      {
+        "name": "avemujica:voice/amoris/d609",
+        "stream": false
+      }
+    ]
+  },
+  "voice.oblivionis.d190": {
+    "subtitle": "subtitles.avemujica.voice.oblivionis.d190",
+    "sounds": [
+      {
+        "name": "avemujica:voice/oblivionis/d190",
+        "stream": false
+      }
+    ]
+  },
+  "voice.oblivionis.d191": {
+    "subtitle": "subtitles.avemujica.voice.oblivionis.d191",
+    "sounds": [
+      {
+        "name": "avemujica:voice/oblivionis/d191",
+        "stream": false
+      }
+    ]
+  },
+  "voice.oblivionis.d192": {
+    "subtitle": "subtitles.avemujica.voice.oblivionis.d192",
+    "sounds": [
+      {
+        "name": "avemujica:voice/oblivionis/d192",
+        "stream": false
+      }
+    ]
+  },
+  "voice.oblivionis.d204": {
+    "subtitle": "subtitles.avemujica.voice.oblivionis.d204",
+    "sounds": [
+      {
+        "name": "avemujica:voice/oblivionis/d204",
+        "stream": false
+      }
+    ]
+  },
+  "voice.oblivionis.d205": {
+    "subtitle": "subtitles.avemujica.voice.oblivionis.d205",
+    "sounds": [
+      {
+        "name": "avemujica:voice/oblivionis/d205",
+        "stream": false
+      }
+    ]
+  },
+  "voice.oblivionis.d206": {
+    "subtitle": "subtitles.avemujica.voice.oblivionis.d206",
+    "sounds": [
+      {
+        "name": "avemujica:voice/oblivionis/d206",
+        "stream": false
+      }
+    ]
+  },
+  "voice.oblivionis.d535": {
+    "subtitle": "subtitles.avemujica.voice.oblivionis.d535",
+    "sounds": [
+      {
+        "name": "avemujica:voice/oblivionis/d535",
+        "stream": false
+      }
+    ]
+  },
+  "voice.oblivionis.d560": {
+    "subtitle": "subtitles.avemujica.voice.oblivionis.d560",
+    "sounds": [
+      {
+        "name": "avemujica:voice/oblivionis/d560",
+        "stream": false
+      }
+    ]
+  },
+  "voice.oblivionis.d585": {
+    "subtitle": "subtitles.avemujica.voice.oblivionis.d585",
+    "sounds": [
+      {
+        "name": "avemujica:voice/oblivionis/d585",
+        "stream": false
+      }
+    ]
+  },
+  "voice.oblivionis.d610": {
+    "subtitle": "subtitles.avemujica.voice.oblivionis.d610",
+    "sounds": [
+      {
+        "name": "avemujica:voice/oblivionis/d610",
+        "stream": false
+      }
+    ]
+  },
+  "mortis_guitar_custom": {
+    "subtitle": "subtitles.avemujica.mortis_guitar_custom",
+    "sounds": [
+      {
+        "name": "minecraft:block.note_block.guitar",
+        "type": "event"
+      }
+    ]
+  },
+  "uika_guitar_custom": {
+    "subtitle": "subtitles.avemujica.uika_guitar_custom",
+    "sounds": [
+      {
+        "name": "minecraft:block.note_block.guitar",
+        "type": "event"
+      }
+    ]
+  },
+  "concert_harp": {
+    "sounds": [
+      {
+        "name": "minecraft:note/harp",
+        "type": "file",
+        "attenuation_distance": 112,
+        "stream": false
+      }
+    ]
+  },
+  "concert_guitar": {
+    "sounds": [
+      {
+        "name": "minecraft:note/guitar",
+        "type": "file",
+        "attenuation_distance": 112,
+        "stream": false
+      }
+    ]
+  },
+  "concert_bass": {
+    "sounds": [
+      {
+        "name": "minecraft:note/bass",
+        "type": "file",
+        "attenuation_distance": 112,
+        "stream": false
+      }
+    ]
+  },
+  "concert_pling": {
+    "sounds": [
+      {
+        "name": "minecraft:note/pling",
+        "type": "file",
+        "attenuation_distance": 112,
+        "stream": false
+      }
+    ]
+  },
+  "concert_bit": {
+    "sounds": [
+      {
+        "name": "minecraft:note/bit",
+        "type": "file",
+        "attenuation_distance": 112,
+        "stream": false
+      }
+    ]
+  },
+  "concert_flute": {
+    "sounds": [
+      {
+        "name": "minecraft:note/flute",
+        "type": "file",
+        "attenuation_distance": 112,
+        "stream": false
+      }
+    ]
+  },
+  "concert_chime": {
+    "sounds": [
+      {
+        "name": "minecraft:note/chime",
+        "type": "file",
+        "attenuation_distance": 112,
+        "stream": false
+      }
+    ]
+  },
+  "concert_bell": {
+    "sounds": [
+      {
+        "name": "minecraft:note/bell",
+        "type": "file",
+        "attenuation_distance": 112,
+        "stream": false
+      }
+    ]
+  },
+  "concert_xylophone": {
+    "sounds": [
+      {
+        "name": "minecraft:note/xylophone",
+        "type": "file",
+        "attenuation_distance": 112,
+        "stream": false
+      }
+    ]
+  },
+  "concert_iron_xylophone": {
+    "sounds": [
+      {
+        "name": "minecraft:note/iron_xylophone",
+        "type": "file",
+        "attenuation_distance": 112,
+        "stream": false
+      }
+    ]
+  },
+  "concert_banjo": {
+    "sounds": [
+      {
+        "name": "minecraft:note/banjo",
+        "type": "file",
+        "attenuation_distance": 112,
+        "stream": false
+      }
+    ]
+  },
+  "concert_didgeridoo": {
+    "sounds": [
+      {
+        "name": "minecraft:note/didgeridoo",
+        "type": "file",
+        "attenuation_distance": 112,
+        "stream": false
+      }
+    ]
+  },
+  "concert_basedrum": {
+    "sounds": [
+      {
+        "name": "minecraft:note/bd",
+        "type": "file",
+        "attenuation_distance": 112,
+        "stream": false
+      }
+    ]
+  },
+  "concert_snare": {
+    "sounds": [
+      {
+        "name": "minecraft:note/snare",
+        "type": "file",
+        "attenuation_distance": 112,
+        "stream": false
+      }
+    ]
+  },
+  "concert_hat": {
+    "sounds": [
+      {
+        "name": "minecraft:note/hat",
+        "type": "file",
+        "attenuation_distance": 112,
+        "stream": false
+      }
+    ]
+  },
+  "concert_mortis_custom": {
+    "sounds": [
+      {
+        "name": "avemujica:mortis_guitar_custom",
+        "type": "event",
+        "attenuation_distance": 112,
+        "stream": false
+      }
+    ]
+  },
+  "concert_uika_custom": {
+    "sounds": [
+      {
+        "name": "avemujica:uika_guitar_custom",
+        "type": "event",
+        "attenuation_distance": 112,
+        "stream": false
+      }
+    ]
+  },
+  "uika_vocal_custom": {
+    "subtitle": "subtitles.avemujica.uika_vocal_custom",
+    "sounds": [{"name": "minecraft:block.note_block.harp", "type": "event"}]
+  },
+  "concert_uika_vocal_custom": {
+    "sounds": [{"name": "avemujica:uika_vocal_custom", "type": "event", "attenuation_distance": 112, "stream": false}]
+  }
+}

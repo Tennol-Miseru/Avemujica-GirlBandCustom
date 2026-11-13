@@ -1,0 +1,78 @@
+{
+  "textures": {
+    "deck": "minecraft:block/dark_oak_planks",
+    "base": "minecraft:block/polished_blackstone",
+    "frame": "minecraft:block/iron_block",
+    "dark": "minecraft:block/black_concrete",
+    "grille": "minecraft:block/gray_concrete",
+    "reflect": "minecraft:block/tinted_glass",
+    "glow": "minecraft:block/sea_lantern",
+    "particle": "#deck"
+  },
+  "elements": [
+    {
+      "to": [
+        16,
+        6,
+        16
+      ],
+      "faces": {
+        "north": {
+          "texture": "#base"
+        },
+        "south": {
+          "texture": "#base"
+        },
+        "east": {
+          "texture": "#base"
+        },
+        "west": {
+          "texture": "#base"
+        },
+        "up": {
+          "texture": "#base"
+        },
+        "down": {
+          "texture": "#base"
+        }
+      },
+      "from": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "to": [
+        16,
+        8,
+        16
+      ],
+      "faces": {
+        "north": {
+          "texture": "#deck"
+        },
+        "south": {
+          "texture": "#deck"
+        },
+        "east": {
+          "texture": "#deck"
+        },
+        "west": {
+          "texture": "#deck"
+        },
+        "up": {
+          "texture": "#deck"
+        },
+        "down": {
+          "texture": "#deck"
+        }
+      },
+      "from": [
+        0,
+        6,
+        0
+      ]
+    }
+  ]
+}

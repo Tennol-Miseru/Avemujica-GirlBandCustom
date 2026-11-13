@@ -1,0 +1,41 @@
+{
+  "parent": "avemujica:block/merch_stall",
+  "display": {
+    "gui": {
+      "rotation": [
+        24,
+        135,
+        0
+      ],
+      "scale": [
+        0.56,
+        0.56,
+        0.56
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        135,
+        0
+      ],
+      "scale": [
+        0.44,
+        0.44,
+        0.44
+      ]
+    },
+    "thirdperson_righthand": {
+      "rotation": [
+        68,
+        42,
+        0
+      ],
+      "scale": [
+        0.38,
+        0.38,
+        0.38
+      ]
+    }
+  }
+}

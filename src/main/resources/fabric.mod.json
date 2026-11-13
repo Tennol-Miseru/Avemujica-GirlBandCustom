@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "avemujica",
+  "version": "${version}",
+  "name": "Avemujica GirlBand Custom",
+  "description": "A five-member band mod featuring MIDI performances, band management, village tours, character customization, merchandise, and combat.",
+  "authors": [
+    "MISERU"
+  ],
+  "environment": "*",
+  "icon": "icon.png",
+  "entrypoints": {
+    "main": [
+      "com.miseru.avemujica.AveMujicaMod"
+    ],
+    "client": [
+      "com.miseru.avemujica.client.AveMujicaClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "accessWidener": "avemujica.accesswidener",
+  "mixins": [
+    "avemujica.client.mixins.json"
+  ]
+}

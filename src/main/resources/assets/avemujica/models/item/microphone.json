@@ -1,0 +1,58 @@
+{
+  "parent": "minecraft:block/block",
+  "ambientocclusion": false,
+  "gui_light": "front",
+  "textures": {
+    "base": "minecraft:block/black_concrete",
+    "metal": "minecraft:block/light_gray_concrete",
+    "head": "minecraft:block/gray_wool",
+    "ring": "minecraft:block/iron_block",
+    "particle": "minecraft:block/black_concrete"
+  },
+  "elements": [
+    {
+      "from": [1.0, 0.0, 7.0],
+      "to": [15.0, 1.2, 9.0],
+      "faces": {"north": {"texture": "#base"}, "south": {"texture": "#base"}, "east": {"texture": "#base"}, "west": {"texture": "#base"}, "up": {"texture": "#base"}, "down": {"texture": "#base"}}
+    },
+    {
+      "from": [7.0, 0.0, 1.0],
+      "to": [9.0, 1.2, 15.0],
+      "faces": {"north": {"texture": "#base"}, "south": {"texture": "#base"}, "east": {"texture": "#base"}, "west": {"texture": "#base"}, "up": {"texture": "#base"}, "down": {"texture": "#base"}}
+    },
+    {
+      "from": [6.4, 1.1, 6.4],
+      "to": [9.6, 2.7, 9.6],
+      "faces": {"north": {"texture": "#ring"}, "south": {"texture": "#ring"}, "east": {"texture": "#ring"}, "west": {"texture": "#ring"}, "up": {"texture": "#ring"}, "down": {"texture": "#ring"}}
+    },
+    {
+      "from": [7.2, 2.7, 7.2],
+      "to": [8.8, 28.8, 8.8],
+      "faces": {"north": {"texture": "#metal"}, "south": {"texture": "#metal"}, "east": {"texture": "#metal"}, "west": {"texture": "#metal"}, "up": {"texture": "#metal"}, "down": {"texture": "#metal"}}
+    },
+    {
+      "from": [6.6, 20.2, 6.6],
+      "to": [9.4, 21.7, 9.4],
+      "faces": {"north": {"texture": "#ring"}, "south": {"texture": "#ring"}, "east": {"texture": "#ring"}, "west": {"texture": "#ring"}, "up": {"texture": "#ring"}, "down": {"texture": "#ring"}}
+    },
+    {
+      "from": [7.3, 28.0, 4.0],
+      "to": [8.7, 29.2, 8.1],
+      "faces": {"north": {"texture": "#metal"}, "south": {"texture": "#metal"}, "east": {"texture": "#metal"}, "west": {"texture": "#metal"}, "up": {"texture": "#metal"}, "down": {"texture": "#metal"}}
+    },
+    {
+      "from": [6.0, 27.3, 1.0],
+      "to": [10.0, 30.9, 4.6],
+      "faces": {"north": {"texture": "#head"}, "south": {"texture": "#head"}, "east": {"texture": "#head"}, "west": {"texture": "#head"}, "up": {"texture": "#head"}, "down": {"texture": "#head"}}
+    },
+    {
+      "from": [6.6, 27.7, 0.6],
+      "to": [9.4, 30.3, 1.0],
+      "faces": {"north": {"texture": "#ring"}, "south": {"texture": "#ring"}, "east": {"texture": "#ring"}, "west": {"texture": "#ring"}, "up": {"texture": "#ring"}, "down": {"texture": "#ring"}}
+    }
+  ],
+  "display": {
+    "gui": {"rotation": [18, 145, 0], "translation": [0, -2, 0], "scale": [0.62, 0.62, 0.62]},
+    "ground": {"scale": [0.4, 0.4, 0.4]}
+  }
+}

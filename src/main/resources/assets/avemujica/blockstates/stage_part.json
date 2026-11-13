@@ -1,0 +1,164 @@
+{
+  "variants": {
+    "part=deck": {
+      "model": "avemujica:block/stage_deck"
+    },
+    "part=edge": {
+      "model": "avemujica:block/stage_edge"
+    },
+    "part=step": {
+      "model": "avemujica:block/stage_step"
+    },
+    "part=post": {
+      "model": "avemujica:block/stage_post"
+    },
+    "part=beam_x": {
+      "model": "avemujica:block/stage_beam_x"
+    },
+    "part=beam_z": {
+      "model": "avemujica:block/stage_beam_z"
+    },
+    "part=speaker": {
+      "model": "avemujica:block/stage_speaker"
+    },
+    "part=monitor": {
+      "model": "avemujica:block/stage_monitor"
+    },
+    "part=lamp_purple": {
+      "model": "avemujica:block/stage_lamp_purple"
+    },
+    "part=lamp_green": {
+      "model": "avemujica:block/stage_lamp_green"
+    },
+    "part=lamp_cyan": {
+      "model": "avemujica:block/stage_lamp_cyan"
+    },
+    "part=lamp_pink": {
+      "model": "avemujica:block/stage_lamp_pink"
+    },
+    "part=lamp_gold": {
+      "model": "avemujica:block/stage_lamp_gold"
+    },
+    "part=lamp_sky_blue": {
+      "model": "avemujica:block/stage_lamp_sky_blue"
+    },
+    "part=lamp_gray_blue": {
+      "model": "avemujica:block/stage_lamp_gray_blue"
+    },
+    "part=support": {
+      "model": "avemujica:block/stage_post"
+    },
+    "part=lv2_deck": {
+      "model": "avemujica:block/lv2_deck"
+    },
+    "part=lv2_border": {
+      "model": "avemujica:block/lv2_border"
+    },
+    "part=lv2_black": {
+      "model": "avemujica:block/lv2_black"
+    },
+    "part=lv2_red": {
+      "model": "avemujica:block/lv2_red"
+    },
+    "part=lv2_carpet": {
+      "model": "avemujica:block/lv2_carpet"
+    },
+    "part=lv2_rail": {
+      "model": "avemujica:block/lv2_rail"
+    },
+    "part=lv2_truss": {
+      "model": "avemujica:block/lv2_truss"
+    },
+    "part=lv2_gold": {
+      "model": "avemujica:block/lv2_gold"
+    },
+    "part=lv2_window_gold": {
+      "model": "avemujica:block/lv2_window_gold"
+    },
+    "part=lv2_window_violet": {
+      "model": "avemujica:block/lv2_window_violet"
+    },
+    "part=lv2_window_blue": {
+      "model": "avemujica:block/lv2_window_blue"
+    },
+    "part=lv2_window_pink": {
+      "model": "avemujica:block/lv2_window_pink"
+    },
+    "part=lv2_rose": {
+      "model": "avemujica:block/lv2_rose"
+    },
+    "part=lv2_rose_dark": {
+      "model": "avemujica:block/lv2_rose_dark"
+    },
+    "part=lv2_rose_gold": {
+      "model": "avemujica:block/lv2_rose_gold"
+    },
+    "part=lv2_rose_white": {
+      "model": "avemujica:block/lv2_rose_white"
+    },
+    "part=lv2_spotlight": {
+      "model": "avemujica:block/lv2_spotlight"
+    },
+    "part=lv2_keyboard": {
+      "model": "avemujica:block/stage_keyboard"
+    },
+    "part=lv2_drums": {
+      "model": "avemujica:block/drum_kit"
+    },
+    "part=lv2_rail_x": {
+      "model": "avemujica:block/lv2_rail_x"
+    },
+    "part=lv2_rail_z": {
+      "model": "avemujica:block/lv2_rail_z"
+    },
+    "part=lv2_stair_half": {
+      "model": "avemujica:block/lv2_stair_half"
+    },
+    "part=lv2_deck_lit": {
+      "model": "avemujica:block/lv2_deck"
+    },
+    "part=lv2_carpet_lit": {
+      "model": "avemujica:block/lv2_carpet"
+    },
+    "part=lv2_rail_corner_ne": {
+      "model": "avemujica:block/lv2_rail_corner_ne"
+    },
+    "part=lv2_rail_corner_nw": {
+      "model": "avemujica:block/lv2_rail_corner_nw"
+    },
+    "part=lv2_rail_corner_se": {
+      "model": "avemujica:block/lv2_rail_corner_se"
+    },
+    "part=lv2_rail_corner_sw": {
+      "model": "avemujica:block/lv2_rail_corner_sw"
+    },
+    "part=lv2_rail_end_n": {
+      "model": "avemujica:block/lv2_rail_end_n"
+    },
+    "part=lv2_rail_end_e": {
+      "model": "avemujica:block/lv2_rail_end_e"
+    },
+    "part=lv2_rail_end_s": {
+      "model": "avemujica:block/lv2_rail_end_s"
+    },
+    "part=lv2_rail_end_w": {
+      "model": "avemujica:block/lv2_rail_end_w"
+    },
+    "part=lv2_stair_south": {
+      "model": "avemujica:block/lv2_stair_smooth",
+      "y": 0
+    },
+    "part=lv2_stair_west": {
+      "model": "avemujica:block/lv2_stair_smooth",
+      "y": 90
+    },
+    "part=lv2_stair_north": {
+      "model": "avemujica:block/lv2_stair_smooth",
+      "y": 180
+    },
+    "part=lv2_stair_east": {
+      "model": "avemujica:block/lv2_stair_smooth",
+      "y": 270
+    }
+  }
+}
