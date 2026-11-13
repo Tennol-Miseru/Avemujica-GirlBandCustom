@@ -1,12 +1,9 @@
-<img width="2560" height="1440" alt="AVEMUJICA" src="https://github.com/user-attachments/assets/d0f0a8b6-3cb4-4ba3-a3c1-acb38fdd7abb" /># Avemujica GirlBand Custom · 自定义少女乐队
-
 **Minecraft 1.21.1 · Fabric · v1.1.125 · Java 21**
 
 将 Ave Mujica 的五位成员带入 Minecraft。模组围绕一支可召集、可培养、可演奏、可巡演、可经营，也能参与战斗的少女乐队展开；它不只是角色展示或皮肤替换，而是一套包含音乐、模拟经营、社交与战斗的综合玩法。
 
 > 本项目为粉丝制作的非官方 Minecraft 模组，与 BanG Dream!、Ave Mujica、相关版权方及原作开发团队无官方隶属或背书关系。
-![Uploading AVEMUJICA.jpg…]()
-
+<img width="2560" height="1440" alt="AVEMUJICA" src="https://github.com/user-attachments/assets/d0f0a8b6-3cb4-4ba3-a3c1-acb38fdd7abb" />
 ## 五位成员
 
 | 角色 | 英文标识 | 乐队定位 |
@@ -18,7 +15,7 @@
 | 祐天寺若麦 | Amoris | 架子鼓 |
 
 五位成员拥有独立的外观、语音、互动与日常行为。NPC 外观统一采用 Minecraft 原版 Alex / Slim `PlayerModel`，每位成员使用独立的 64×64 皮肤；不需要 GeckoLib。成员资料和成长数据按玩家保存；召集、队伍指令、个人互动与舞台行为共同构成乐队系统。
-
+五位成员默认皮肤由soten_bori老师制作！
 ## 模组特色
 
 ### 音乐与 MIDI 演奏
