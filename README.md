@@ -1,10 +1,11 @@
-# Avemujica GirlBand Custom · 自定义少女乐队
+<img width="2560" height="1440" alt="AVEMUJICA" src="https://github.com/user-attachments/assets/d0f0a8b6-3cb4-4ba3-a3c1-acb38fdd7abb" /># Avemujica GirlBand Custom · 自定义少女乐队
 
 **Minecraft 1.21.1 · Fabric · v1.1.125 · Java 21**
 
 将 Ave Mujica 的五位成员带入 Minecraft。模组围绕一支可召集、可培养、可演奏、可巡演、可经营，也能参与战斗的少女乐队展开；它不只是角色展示或皮肤替换，而是一套包含音乐、模拟经营、社交与战斗的综合玩法。
 
 > 本项目为粉丝制作的非官方 Minecraft 模组，与 BanG Dream!、Ave Mujica、相关版权方及原作开发团队无官方隶属或背书关系。
+![Uploading AVEMUJICA.jpg…]()
 
 ## 五位成员
 
