@@ -1,0 +1,32 @@
+{
+  "variants": {
+    "facing=north,multi=false": {
+      "model": "avemujica:block/merch_poster",
+      "y": 0
+    },
+    "facing=north,multi=true": {
+      "model": "avemujica:block/merch_poster_part"
+    },
+    "facing=east,multi=false": {
+      "model": "avemujica:block/merch_poster",
+      "y": 90
+    },
+    "facing=east,multi=true": {
+      "model": "avemujica:block/merch_poster_part"
+    },
+    "facing=south,multi=false": {
+      "model": "avemujica:block/merch_poster",
+      "y": 180
+    },
+    "facing=south,multi=true": {
+      "model": "avemujica:block/merch_poster_part"
+    },
+    "facing=west,multi=false": {
+      "model": "avemujica:block/merch_poster",
+      "y": 270
+    },
+    "facing=west,multi=true": {
+      "model": "avemujica:block/merch_poster_part"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "avemujica:block/merch_doll",
+  "display": {
+    "gui": {"rotation": [26, 135, 0], "scale": [0.86, 0.86, 0.86]},
+    "firstperson_righthand": {"rotation": [0, 135, 0], "scale": [0.64, 0.64, 0.64]},
+    "thirdperson_righthand": {"rotation": [64, 42, 0], "scale": [0.56, 0.56, 0.56]}
+  }
+}

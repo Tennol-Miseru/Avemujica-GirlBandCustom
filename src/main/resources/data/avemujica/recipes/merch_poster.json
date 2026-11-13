@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PEP",
+    "EDE",
+    " SE"
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:paper"
+    },
+    "D": {
+      "item": "minecraft:purple_dye"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "E": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "id": "avemujica:merch_poster",
+    "count": 4
+  }
+}

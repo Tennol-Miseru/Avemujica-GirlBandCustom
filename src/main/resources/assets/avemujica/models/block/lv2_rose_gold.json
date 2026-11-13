@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "avemujica:block/lv2_rose_gold"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " N ",
+    "DAD",
+    " E "
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:note_block"
+    },
+    "D": {
+      "item": "minecraft:yellow_dye"
+    },
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "E": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "id": "avemujica:doloris_token",
+    "count": 1
+  }
+}

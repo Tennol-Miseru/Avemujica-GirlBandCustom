@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "IRI",
+    "RNR",
+    "PPP"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "N": {
+      "item": "minecraft:note_block"
+    },
+    "P": {
+      "item": "minecraft:dark_oak_planks"
+    }
+  },
+  "result": {
+    "id": "avemujica:stage_keyboard",
+    "count": 1
+  }
+}

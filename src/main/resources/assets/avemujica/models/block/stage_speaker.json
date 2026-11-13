@@ -1,0 +1,142 @@
+{
+  "textures": {
+    "deck": "minecraft:block/dark_oak_planks",
+    "base": "minecraft:block/polished_blackstone",
+    "frame": "minecraft:block/iron_block",
+    "dark": "minecraft:block/black_concrete",
+    "grille": "minecraft:block/gray_concrete",
+    "reflect": "minecraft:block/tinted_glass",
+    "glow": "minecraft:block/sea_lantern",
+    "particle": "#dark"
+  },
+  "elements": [
+    {
+      "to": [
+        14,
+        15,
+        14
+      ],
+      "faces": {
+        "north": {
+          "texture": "#dark"
+        },
+        "south": {
+          "texture": "#dark"
+        },
+        "east": {
+          "texture": "#dark"
+        },
+        "west": {
+          "texture": "#dark"
+        },
+        "up": {
+          "texture": "#dark"
+        },
+        "down": {
+          "texture": "#dark"
+        }
+      },
+      "from": [
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "to": [
+        13,
+        13,
+        2
+      ],
+      "faces": {
+        "north": {
+          "texture": "#grille"
+        },
+        "south": {
+          "texture": "#grille"
+        },
+        "east": {
+          "texture": "#grille"
+        },
+        "west": {
+          "texture": "#grille"
+        },
+        "up": {
+          "texture": "#grille"
+        },
+        "down": {
+          "texture": "#grille"
+        }
+      },
+      "from": [
+        3,
+        3,
+        1
+      ]
+    },
+    {
+      "to": [
+        11,
+        11,
+        1
+      ],
+      "faces": {
+        "north": {
+          "texture": "#base"
+        },
+        "south": {
+          "texture": "#base"
+        },
+        "east": {
+          "texture": "#base"
+        },
+        "west": {
+          "texture": "#base"
+        },
+        "up": {
+          "texture": "#base"
+        },
+        "down": {
+          "texture": "#base"
+        }
+      },
+      "from": [
+        5,
+        5,
+        0.5
+      ]
+    },
+    {
+      "to": [
+        10,
+        10,
+        0.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#grille"
+        },
+        "south": {
+          "texture": "#grille"
+        },
+        "east": {
+          "texture": "#grille"
+        },
+        "west": {
+          "texture": "#grille"
+        },
+        "up": {
+          "texture": "#grille"
+        },
+        "down": {
+          "texture": "#grille"
+        }
+      },
+      "from": [
+        6,
+        6,
+        0
+      ]
+    }
+  ]
+}

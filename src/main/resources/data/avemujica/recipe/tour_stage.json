@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "III",
+    "PPP",
+    "LLL"
+  ],
+  "key": {
+    "P": {
+      "tag": "minecraft:planks"
+    },
+    "L": {
+      "tag": "minecraft:logs"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "id": "avemujica:tour_stage",
+    "count": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "parent": "avemujica:block/merch_doll_doloris",
+  "display": {
+    "gui": {
+      "rotation": [
+        24,
+        135,
+        0
+      ],
+      "scale": [
+        0.95,
+        0.95,
+        0.95
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        135,
+        0
+      ],
+      "scale": [
+        0.74,
+        0.74,
+        0.74
+      ]
+    },
+    "thirdperson_righthand": {
+      "rotation": [
+        64,
+        42,
+        0
+      ],
+      "scale": [
+        0.64,
+        0.64,
+        0.64
+      ]
+    }
+  }
+}

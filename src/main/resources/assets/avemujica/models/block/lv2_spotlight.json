@@ -1,0 +1,73 @@
+{
+  "textures": {
+    "0": "avemujica:block/lv2_truss",
+    "1": "avemujica:block/lv2_spotlight",
+    "particle": "avemujica:block/lv2_spotlight"
+  },
+  "elements": [
+    {
+      "from": [
+        3,
+        11,
+        3
+      ],
+      "to": [
+        13,
+        16,
+        13
+      ],
+      "faces": {
+        "north": {
+          "texture": "#0"
+        },
+        "south": {
+          "texture": "#0"
+        },
+        "east": {
+          "texture": "#0"
+        },
+        "west": {
+          "texture": "#0"
+        },
+        "up": {
+          "texture": "#0"
+        },
+        "down": {
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "from": [
+        4,
+        3,
+        4
+      ],
+      "to": [
+        12,
+        12,
+        12
+      ],
+      "faces": {
+        "north": {
+          "texture": "#1"
+        },
+        "south": {
+          "texture": "#1"
+        },
+        "east": {
+          "texture": "#1"
+        },
+        "west": {
+          "texture": "#1"
+        },
+        "up": {
+          "texture": "#1"
+        },
+        "down": {
+          "texture": "#1"
+        }
+      }
+    }
+  ]
+}

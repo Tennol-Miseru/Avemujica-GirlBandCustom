@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=true": {
+      "model": "avemujica:block/concert_light_orb"
+    },
+    "lit=false": {
+      "model": "avemujica:block/concert_light_orb"
+    }
+  }
+}

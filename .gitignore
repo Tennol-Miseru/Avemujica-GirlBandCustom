@@ -1,0 +1,115 @@
+# ============================================================
+# AveMujica - GitHub source repository
+# Keep source assets, bundled MIDI/OGG files, tests and examples.
+# Ignore only generated build output and local game/developer data.
+# ============================================================
+
+# Gradle / Fabric Loom build output
+.gradle/
+.gradle-local/
+.loom-cache/
+build/
+out/
+
+# Local development game instances and generated runtime data
+/run/
+/run-*/
+/runs/
+/config/
+/logs/
+/crash-reports/
+/saves/
+/screenshots/
+/resourcepacks/
+/shaderpacks/
+/mods/
+/assets/
+/libraries/
+/versions/
+/world/
+/world_nether/
+/world_the_end/
+
+# Local Minecraft/server settings and player data
+/options.txt
+/optionsof.txt
+/servers.dat
+/server.properties
+/eula.txt
+/whitelist.json
+/ops.json
+/banned-ips.json
+/banned-players.json
+/usercache.json
+/usernamecache.json
+/launcher_profiles.json
+
+# Player-imported custom assets (never commit personal replacement files)
+# These paths are covered by /config/ above; listed for clarity.
+# /config/avemujica/custom_assets/
+# /config/avemujica/midi/
+
+# IDEs and editors
+.idea/
+.vscode/
+.fleet/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+*.swp
+*.swo
+*~
+
+# Java crash / compiled output
+*.class
+*.hprof
+hs_err_pid*
+replay_pid*
+
+# Python test and tool caches
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.venv/
+venv/
+.coverage
+coverage.xml
+htmlcov/
+pytestdebug.log
+*.py[cod]
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local environment and machine-specific configuration
+.env
+.env.*
+!.env.example
+/local.properties
+
+# Private signing material / credentials
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+*.key
+
+# Temporary / editor backup files
+*.tmp
+*.bak
+*.orig
+*.rej
+
+# NOTE:
+# - Do NOT ignore *.jar globally: Gradle Wrapper may need gradle-wrapper.jar.
+# - Do NOT ignore *.mid, *.ogg, *.png or *.json globally: many are required
+#   runtime resources that belong in src/main/resources/.
+# - Keep gradle.properties: it contains shared project versions, not secrets.

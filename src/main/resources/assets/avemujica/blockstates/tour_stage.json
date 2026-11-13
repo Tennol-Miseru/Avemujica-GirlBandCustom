@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "avemujica:block/tour_stage"
+    },
+    "facing=south": {
+      "model": "avemujica:block/tour_stage"
+    },
+    "facing=east": {
+      "model": "avemujica:block/tour_stage"
+    },
+    "facing=west": {
+      "model": "avemujica:block/tour_stage"
+    }
+  }
+}
